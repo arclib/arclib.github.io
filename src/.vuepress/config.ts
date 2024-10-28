@@ -1,6 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
-
+//配置
 export default defineUserConfig({
   base: "/",
 

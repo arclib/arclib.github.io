@@ -1,25 +1,38 @@
 ---
+# 标题
 title: 布局与功能禁用
+# 图标
 icon: gears
+# 排序
 order: 4
+# 分类
 category:
   - 使用指南
+#标签
 tag:
   - 禁用
-
+# 导航栏
 navbar: false
+# 侧边栏
 sidebar: false
-
+# 路径导航
 breadcrumb: false
+# 页面信息
 pageInfo: false
+# 贡献者
 contributors: false
+# 编辑此页链接
 editLink: false
+# 更新时间
 lastUpdated: false
+# 上一篇/下一篇 链接
 prev: false
 next: false
+# 评论
 comment: false
+# 页脚
 footer: false
-
+# 返回顶部按钮
 backtotop: false
 ---
 

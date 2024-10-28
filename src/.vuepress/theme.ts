@@ -1,7 +1,7 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
-
+// 模版配置
 export default hopeTheme({
   hostname: "https://www.arclib.top",
 
@@ -24,8 +24,8 @@ export default hopeTheme({
   // 侧边栏
   sidebar,
 
-  // 页脚
-  footer: "默认页脚",
+  // 页脚 todo 如何居中？
+  footer: "MIT Licensed",
   displayFooter: true,
 
   // 博客相关

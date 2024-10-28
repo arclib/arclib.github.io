@@ -1,5 +1,5 @@
 import { sidebar } from "vuepress-theme-hope";
-
+//侧边栏-左侧
 export default sidebar({
   "/": [
     "",
@@ -23,4 +23,5 @@ export default sidebar({
       link: "https://plugin-md-enhance.vuejs.press/zh/guide/content/revealjs/demo.html",
     },
   ],
+  "/course/": "structure",
 });

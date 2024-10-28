@@ -37,8 +37,6 @@ projects:
     name: 自定义项目
     desc: 自定义详细介绍
     link: https://你的自定义链接
-
-footer: 自定义你的页脚文字
 ---
 
 这是一个博客主页的案例。
